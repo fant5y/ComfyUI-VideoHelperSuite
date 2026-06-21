@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ActiveTabHighlighterConfigurationV2">
+    <option name="enabled" value="true" />
+    <option name="background" value="#AD2E9C" />
+  </component>
+  <component name="MypyConfigService">
+    <option name="mypyConfigFilePath" value="D:\Coding\BASICS\mypy.ini" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>OpenAPI specifications</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="LocalAI" project-jdk-type="Python SDK" />
+  <component name="ProjectUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="29-02-2024">
+        <observation name="cancelled" value="2,0" />
+        <observation name="explicitSelect" value="1,0" />
+        <observation name="typedSelect" value="8,0" />
+      </dailyData>
+      <dailyData date="11-06-2024">
+        <observation name="cancelled" value="5,0" />
+        <observation name="typedSelect" value="6,0" />
+      </dailyData>
+      <dailyData date="13-08-2024">
+        <observation name="cancelled" value="8,0" />
+        <observation name="typedSelect" value="6,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="29-02-2024">
+        <observation name="BASIC" value="11,0" />
+      </dailyData>
+      <dailyData date="11-06-2024">
+        <observation name="BASIC" value="10,0" />
+      </dailyData>
+      <dailyData date="13-08-2024">
+        <observation name="BASIC" value="11,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="29-02-2024">
+        <observation name="count" value="11,0" />
+      </dailyData>
+      <dailyData date="11-06-2024">
+        <observation name="count" value="11,0" />
+      </dailyData>
+      <dailyData date="13-08-2024">
+        <observation name="count" value="14,0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="29-02-2024">
+        <observation name="0" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="29-02-2024">
+        <observation name="total" value="1,0" />
+        <observation name="withMnemonics" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="29-02-2024">
+        <observation name="4" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="29-02-2024">
+        <observation name="START_WITH" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="29-02-2024">
+        <observation name="totalStartingWithPrefix" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="29-02-2024">
+        <observation name="average" value="178,608696" />
+        <observation name="count" value="23,0" />
+      </dailyData>
+      <dailyData date="11-06-2024">
+        <observation name="average" value="239,769231" />
+        <observation name="count" value="26,0" />
+      </dailyData>
+      <dailyData date="13-08-2024">
+        <observation name="average" value="119,55" />
+        <observation name="count" value="20,0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RuffConfigService">
+    <option name="globalRuffExecutablePath" value="C:\Users\Vroni\miniconda3\Scripts\ruff.exe" />
+    <option name="ruffConfigPath" value="D:\Coding\BASICS\ruff.toml" />
+    <option name="runRuffOnSave" value="true" />
+    <option name="useRuffFormat" value="true" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+</project>

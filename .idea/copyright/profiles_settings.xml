@@ -1,0 +1,12 @@
+<component name="CopyrightManager">
+  <settings>
+    <LanguageOptions name="Python">
+      <option name="fileTypeOverride" value="$PYTHONUTF8$" />
+      <option name="block" value="false" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="relativeBefore" value="false" />
+      <option name="addBlankBefore" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>
